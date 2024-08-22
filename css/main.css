@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: #f6d7f6;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+div span {
+    font-size: 60px;
+    margin-right: 20px;
+    background-color: #ffffff5d;
+    border-radius: 10px;
+    height: 200px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
